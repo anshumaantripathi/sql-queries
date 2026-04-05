@@ -23,9 +23,20 @@ sql-queries/
 
 ## 🎯 Progress
 
-- Beginner → In progress  
-- Intermediate → Upcoming  
+- Beginner → Completed  
+- Intermediate → In progress  
 - Advanced → Upcoming  
+
+---
+
+## 📘 Intermediate (In Progress)
+
+Currently working on:
+
+- Filtering data using different operators  
+- Combining data at column level using joins  
+- Practicing all types of SQL joins (basic to advanced)  
+- Working with multiple table joins  
 
 ---
 
